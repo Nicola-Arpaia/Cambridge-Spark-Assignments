@@ -2,7 +2,7 @@
 This Repo is used for assignments from the Advanced Data Science Bootcamp
 
 * ADS01 - Building Foundations
-  * Python Practice ( matplotlib, numpy, pandas)
+  * Python Practice (matplotlib, numpy, pandas)
 * ADS02 - Supervised EDA
   * Further pandas and numpy for EDA
   * Principal Component Analysis  
